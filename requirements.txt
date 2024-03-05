@@ -1,0 +1,4 @@
+dash
+sentence-transformers
+scikit-learn
+pandas
